@@ -1,0 +1,11 @@
+ Volume in drive C is Windows8_OS
+ Volume Serial Number is C6B6-1604
+
+ Directory of C:\Users\Shobha\Desktop\p1
+
+26-02-2019  14:09    <DIR>          .
+26-02-2019  14:09    <DIR>          ..
+26-02-2019  14:09               339 f.txt
+26-02-2019  14:10                 0 n.txt
+               2 File(s)            339 bytes
+               2 Dir(s)  798,651,686,912 bytes free
